@@ -1,0 +1,6 @@
+# Ignore files related to API keys
+.env
+# Ignore document folder
+document
+#PersonalObservationOnThisApplication file
+PersonalObservationOnThisApplication.txt
